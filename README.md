@@ -1,3 +1,3 @@
 # Nidhi Parikh - Data Analytics Portfolio
 ## About
-Welcome to my Data Analytics Portfolio! I'm Nidhi Parikh, a Data Analyst with over 5 years of experience dedicated to extracting actionable insights from complex datasets. My work spans maritime analytics, investment banking and nonprofit domains, where I have leveraged SQL, Power BI, Tableau, Advanced Excel to optimize operations and inform strategic decisions.
+Hi, I’m Nidhi Parikh — a data enthusiast with over 5 years of experience turning messy datasets into meaningful stories. From tracking vessels to decoding financial patterns, I’ve helped teams across maritime, banking, and nonprofit sectors uncover insights using SQL, Power BI, Tableau, and Excel.
