@@ -5,3 +5,7 @@ Hi, I’m Nidhi Parikh — a data enthusiast with over 5 years of experience tur
 **My Toolkit includes** :
 
 SQL | Power BI | Tableau | Excel |
+
+## Projects
+1. [Call Center Analytics Dashboard](https://github.com/nidhip1/Call-Center-Analytics-Dashboard)
+2. [Candy Sales Analytics Dashboard](https://github.com/nidhip1/PowerBI-Sales-Performance-Dashboard)
